@@ -1,1 +1,2 @@
 # Bike-sharing-demand-prediction
+The python notebook includes the code to predict bike sharing demand using GWO-IELM approach which uses Grey Wolf Optimization (GWO) for feature selection and Incremental Extreme Learning Machine(I-ELM) model for prediction.  The dataset used for experimental analysis is publicly available at this link: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
